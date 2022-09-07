@@ -9,14 +9,11 @@ body {
 
 main {
   display: flex;
-  /* Forces elements to the next line if they don't fit */
   flex-wrap: wrap;
-  margin-top: 2%;
 }
 
 .main-header {
   display: flex;
-  /* Forces elements to the next line if they don't fit */
   flex-wrap: wrap;
   justify-content: space-between;
   padding: 60px;
